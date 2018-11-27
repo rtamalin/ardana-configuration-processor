@@ -45,7 +45,6 @@
             - lifecycle-manager-target
             - ip-cluster
             - neutron-openvswitch-agent
-            - glance-registry
       load-balancers:
         - provider: ip-cluster
           name: lbext
